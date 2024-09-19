@@ -41,7 +41,7 @@ window.addEventListener('load', ()=>{
 
        
     } else {
-        h1.textContent = "Please enable geolocation"
+        h1.textContent = "Please Enable Geolocation";
     }
 
    
