@@ -1,0 +1,1 @@
+In order to test or use this app you will need to sign up for an account with weatherapi.com and get a private key.  Once you have a private key, add it to the file privateKey.js
